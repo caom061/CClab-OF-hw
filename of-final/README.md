@@ -5,7 +5,8 @@
 ######.Stand in front of the screen.
 ######.Choose different characters by clikc the buttons on the left.
 ######.Move your body and head to play with those traditional characters.
-###Demo
+
 ![solarized selective contrast](https://github.com/caom061/CClab-OF-hw/blob/master/of-final/Screen%20Shot%202015-11-30%20at%205.36.18%20PM.png)
 
+###Demo
 [Emoji Player video](https://youtu.be/dQzo_rFt7zE)
